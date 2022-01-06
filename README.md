@@ -4,4 +4,4 @@
 
 #### This is a text based adventure game for beginners buith in Python programming language.
 
-#### To run the program - python/python filename.py
+#### To run the program - python/python text_game.py
